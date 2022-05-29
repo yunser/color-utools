@@ -1,0 +1,13 @@
+{
+    "preload": "./dist/main.js",
+    "logo": "logo-new.png",
+    "features": [
+        {
+            "code": "pick",
+            "explain": "屏幕取色",
+            "cmds": [
+                "取色"
+            ]
+        }
+    ]
+}
